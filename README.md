@@ -1,7 +1,7 @@
 # 2022 World Cup Final: Pass Reception Heatmaps
 
 **By Elijah Wekstein**  
-CU Boulder - Business Analytics and Information Management
+CU Boulder Graduate - Business Analytics and Information Management
 
 ---
 
