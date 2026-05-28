@@ -25,7 +25,7 @@ With the 2026 World Cup approaching, I wanted to take a look back at the greates
 
 ![Argentina Pass Reception Map](Argentina_PassMap.png)
 
-Argentina's pass map shows a team that was comfortable and controlled in possession. The density is spread across their own defensive half and midfield, with notable concentration through the left channel - a reflection of how they built play through that side before transitioning. The right side of the attacking third lights up near goal, where their three scores landed.
+Argentina's pass map shows a team that was comfortable and controlled in possession. The density is spread across their own defensive half and midfield, with notable concentration through the left channel, a reflection of how they built play through that side before transitioning. The right side of the attacking third lights up near goal, where their three scores landed.
 
 ---
 
