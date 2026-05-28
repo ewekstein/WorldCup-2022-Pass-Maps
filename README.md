@@ -7,7 +7,7 @@ CU Boulder - Business Analytics and Information Management
 
 ## Overview
 
-With the 2026 World Cup approaching, I wanted to take a look back at the greatest final in recent memory. Argentina vs. France in Qatar 2022 was one of the most dramatic matches in soccer history - a 3-3 draw settled on penalties. Beyond the scoreline, the pass reception maps from that match tell a fascinating tactical story about how two very different teams tried to win the same game.
+With the 2026 World Cup approaching, I wanted to take a look back at the greatest final in recent memory. Argentina vs. France in Qatar 2022 was one of the most dramatic matches in soccer history: a 3-3 draw settled on penalties. Beyond the scoreline, the pass reception maps from that match tell a fascinating tactical story about how two very different teams tried to win the same game.
 
 **Data source:** [StatsBomb Open Data](https://github.com/statsbomb/open-data) - 2022 FIFA World Cup
 
@@ -33,7 +33,7 @@ Argentina's pass map shows a team that was comfortable and controlled in possess
 
 ![France Pass Reception Map](France_PassMap.png)
 
-France's map looks completely different. The density clusters heavily through the center and left flank of the pitch, with a pronounced concentration in the central corridor behind midfield. France completed 434 passes to Argentina's 560, but their distribution was more vertical and direct - pushing passes into dangerous central zones rather than circulating possession wide. The three red goal markers on the right side of the attacking third reflect Mbappe's brilliance late in the match.
+France's map looks completely different. The density clusters heavily through the center and left flank of the pitch, with a pronounced concentration in the central corridor behind midfield. France completed 434 passes to Argentina's 560, but their distribution was more vertical and direct, pushing passes into dangerous central zones rather than circulating possession wide. The three red goal markers on the right side of the attacking third reflect Mbappe's brilliance late in the match.
 
 ---
 
